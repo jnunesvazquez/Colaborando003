@@ -4,5 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Primera funcionalidad acabada");
+        System.out.println("Segunda funcionalidade acabada.");
+
     }
 }
